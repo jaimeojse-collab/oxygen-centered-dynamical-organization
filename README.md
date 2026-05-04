@@ -1,5 +1,5 @@
 # Oxygen-Centered Dynamical Organization of Chemical Space
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 This repository accompanies the open-science preprint:
 
