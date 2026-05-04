@@ -22,6 +22,8 @@ Using a minimal Endogenous Reachability Collapse (ERC) framework, the notebook c
 
 The analysis is designed as a minimal, hypothesis-generating framework, not as a predictive physical model.
 
+![Figure 1](figures/fig1.png)
+
 ## Reproducibility
 
 All required input files are included in the data/ folder.
