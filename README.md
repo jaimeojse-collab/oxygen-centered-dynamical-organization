@@ -1,4 +1,6 @@
 # Oxygen-Centered Dynamical Organization of Chemical Space
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20026665.svg)](https://doi.org/10.5281/zenodo.20026665)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 This repository accompanies the open-science preprint:
@@ -47,6 +49,12 @@ All preprocessing steps, transformations, and derived quantities are implemented
 - The ERC framework is implemented in a minimal form, focusing on coarse observables of dynamical accessibility  
 - Correlations with physical observables are weak and based on limited datasets  
 - Results should be interpreted as preliminary and indicative, not conclusive  
+
+## Citation
+
+If you use this work, please cite:
+
+Ojeda, J. (2026). *Oxygen-Centered Representations Reveal a Candidate Dynamical Organization of Chemical Space*. Zenodo. https://doi.org/10.5281/zenodo.20026665
 
 ## License
 
