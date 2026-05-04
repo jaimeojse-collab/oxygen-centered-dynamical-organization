@@ -1,0 +1,6 @@
+test,value,p_value
+Spearman with H2,0.4642857142857144,0.2939341076002517
+Spearman without H2,0.7142857142857143,0.1107871720116617
+Permutation p,0.136,0.136
+Kendall tau,0.6,0.1361111111111111
+Left vs Right mean,"left=-1310.5, right=-301.33",
